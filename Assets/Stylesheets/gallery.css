@@ -1,0 +1,18 @@
+.columnFit {
+	display: inline-block;
+	float: left;
+	padding: 10px;
+}
+
+body{
+	background-color: black;
+}
+
+.navColor {
+	background-color: #DBDBDB;
+}
+
+.navTextColor {
+	color: royalblue !important;
+	font-family: 'Orbitron', sans-serif;
+}
